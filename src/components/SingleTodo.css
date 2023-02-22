@@ -32,6 +32,6 @@
 
 @media (max-width: 1200px) {
   .todos__single {
-    width: 40%;
+    width: 80%;
   }
 }
